@@ -6,6 +6,7 @@
 //  Copyright 2005 Flying Meat Inc.. All rights reserved.
 //
 
+#import "InklingPrefix.h"
 #import <Foundation/Foundation.h>
 #import "FMDatabase.h"
 
